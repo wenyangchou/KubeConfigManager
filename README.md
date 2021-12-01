@@ -1,6 +1,6 @@
-# Kubenaters Config Manager
+# Kubernates Config Manager
 
-Sometimes we need manage more than one kubernatee cluster at the same time. 
+Sometimes we need manage more than one kubernates cluster at the same time.
 
 Switch cluster configs is a dangerous and troublesome operation. This util is designed to 
 deal with this scenario. Similar to pyenv, it can support multiple configs at the same time.
